@@ -1,5 +1,4 @@
-# w2k_icons
-Windows 2000 icon theme for Linux
+# Redmond97 Icons
+An icon theme to go with the Redmond97 GTK theme.
 
-The goal is to create a Windows 98 / Windows 2000 icon theme for Linux. As of right now this is not a complete theme so far only the ICO files have been extracted and converted to png files sorted by size.
-
+Modified version of Chicago95 icon theme with a mix of Win98 and Win2K icons. Theme is still incomplete, only basic icons have been updated. Source icons included.
